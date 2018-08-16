@@ -1,0 +1,1 @@
+yarn run babel src -d dist
